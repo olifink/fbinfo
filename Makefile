@@ -1,3 +1,3 @@
 build:
-	rm fbinfo
+	rm -f fbinfo
 	cc -o fbinfo fbinfo.c
